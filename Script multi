@@ -6,9 +6,10 @@ elseif game.PlaceId ==  6284583030 then ----------------------------------------
     loadstring(game:HttpGet(('https://pastebin.com/ZWbez8uN'),true))()
 elseif game.PlaceId ==  6447798030 then --------------------------------------------funky driday-----------------------------------------------------
 	loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
---[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
-	
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed'),true))()
+	
+--[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
@@ -17,8 +18,6 @@ elseif game.PlaceId ==  3123123123 then ----------------------------------------
 else
 	game.Players.LocalPlayer:Kick("This is not an supported game.:)")
 end
-
---loadstring(game:HttpGet(('https://pastebin.com/F3sFX7n4'),true))()--
 
 
 --[[repeat wait() until game:IsLoaded()
@@ -38,4 +37,6 @@ elseif PlaceId == 1730877806 or PlaceId == 3978370137 then
 elseif PlaceId == 8304191830 or PlaceId == 8349889591 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Anime%20Adventure")()
 end]]--
+
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/DOG393831/Multi-Thingy-roblox-script/main/Script%20multi",true))();--
 
