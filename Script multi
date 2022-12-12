@@ -8,12 +8,11 @@ elseif game.PlaceId ==  6447798030 then ----------------------------------------
 	loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed'),true))()
-	
---[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
-	
+elseif game.PlaceId ==  11063612131 then -----------------------------------Every Second You Get +1 Jump Power---------------------------------------
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/ni7kobv/nihub/main/scripts/Every%20Second%20You%20Get%20%2B1%20Jump%20Powere"))()
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
-elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------]]
+elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------
 
 else
 	game.Players.LocalPlayer:Kick("This is not an supported game.:)")
