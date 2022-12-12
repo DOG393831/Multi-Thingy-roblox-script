@@ -1,0 +1,41 @@
+if game.PlaceId == 1537690962 then ----------------------------------------------bee swarm simulator-------------------------------------------------
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/games/bss.lua"))()
+elseif game.PlaceId ==  9993529229 then --------------------------------------Counter blox remasterd vape v4-----------------------------------------
+	loadstring(game:HttpGet(('https://pastebin.com/C9kQNpVM'),true))()
+elseif game.PlaceId ==  6284583030 then --------------------------------------------pet sim x--------------------------------------------------------
+    loadstring(game:HttpGet(('https://pastebin.com/ZWbez8uN'),true))()
+elseif game.PlaceId ==  6447798030 then --------------------------------------------funky driday-----------------------------------------------------
+	loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
+--[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
+	
+elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
+	
+elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
+	
+elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------]]
+
+else
+	game.Players.LocalPlayer:Kick("This is not an supported game.:)")
+end
+
+--loadstring(game:HttpGet(('https://pastebin.com/F3sFX7n4'),true))()--
+
+
+--[[repeat wait() until game:IsLoaded()
+local PlaceId = game.PlaceId
+if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BF")()
+elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/KL")()
+elseif PlaceId == 537413528 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BABFT")()
+elseif PlaceId == 8396586868 or PlaceId == 9432106399 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/AOPG")()
+elseif PlaceId == 914010731 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Ro-Ghoul")()
+elseif PlaceId == 1730877806 or PlaceId == 3978370137 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/GPO")()
+elseif PlaceId == 8304191830 or PlaceId == 8349889591 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Anime%20Adventure")()
+end]]--
+
