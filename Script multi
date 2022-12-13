@@ -18,6 +18,13 @@ else
 	game.Players.LocalPlayer:Kick("This is not an supported game.:)")
 end
 
+bc = BrickColor.new("Red")
+game.StarterGui:SetCore("ChatMakeSystemMessage", {
+    Text = "Make Sure to Contact DOG#4428 To add Any more scripts and update";
+    Font = Enum.Font.Cartoon;
+    Color = bc.Color;
+    FontSize = Enum.FontSize.Size96;    
+})
 
 --[[repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
