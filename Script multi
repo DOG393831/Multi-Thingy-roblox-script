@@ -1,30 +1,24 @@
 if game.PlaceId == 1537690962 then ----------------------------------------------bee swarm simulator-------------------------------------------------
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/games/bss.lua"))()
 elseif game.PlaceId ==  9993529229 then --------------------------------------Counter blox remasterd vape v4-----------------------------------------
-	loadstring(game:HttpGet(('https://pastebin.com/C9kQNpVM'),true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DOG393831/Multi-Thingy-roblox-script/main/CBRO%20Vape%20v4"))()
 elseif game.PlaceId ==  6284583030 then --------------------------------------------pet sim x--------------------------------------------------------
-    loadstring(game:HttpGet(('https://pastebin.com/ZWbez8uN'),true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Main.lua"))()
 elseif game.PlaceId ==  6447798030 then --------------------------------------------funky driday-----------------------------------------------------
-	loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed'),true))()
-elseif game.PlaceId ==  11063612131 then -----------------------------------                   ---------------------------------------
+	
+--[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
-elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------
+elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------]]
 
 else
 	game.Players.LocalPlayer:Kick("This is not an supported game.:)")
 end
 
-bc = BrickColor.new("Red")
-game.StarterGui:SetCore("ChatMakeSystemMessage", {
-    Text = "Make Sure to Contact DOG#4428 To add Any more scripts and update";
-    Font = Enum.Font.Cartoon;
-    Color = bc.Color;
-    FontSize = Enum.FontSize.Size96;    
-})
 
 --[[repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
