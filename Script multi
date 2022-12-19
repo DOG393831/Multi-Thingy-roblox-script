@@ -8,9 +8,8 @@ elseif game.PlaceId ==  6447798030 then ----------------------------------------
     loadstring(game:HttpGet(('https://pastebin.com/raw/0msJSYHU'),true))()
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed'),true))()
-	
---[[elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
-	
+elseif game.PlaceId ==  6872265039 then ------------------------------------------bedwars roblox mad cringe------------------------------------------
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
 	
 elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------]]
