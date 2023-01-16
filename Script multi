@@ -1,5 +1,11 @@
+local script
+local multi
+local MutliScript
+local 
+
+
 if game.PlaceId == 1537690962 then ----------------------------------------------bee swarm simulator-------------------------------------------------
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/max0mind/lua/main/loader.lua'))()
+	loadstring(game:HttpGet("https://roblox.servegame.com/roblox_bss/chocmoc.lua"))()
 elseif game.PlaceId ==  9993529229 then --------------------------------------Counter blox remasterd vape v4-----------------------------------------
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DOG393831/Multi-Thingy-roblox-script/main/CBRO%20Vape%20v4"))()
 elseif game.PlaceId ==  6284583030 then --------------------------------------------pet sim x--------------------------------------------------------
@@ -10,8 +16,9 @@ elseif game.PlaceId ==  3101667897 then ----------------------------------------
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Legends-of-speed'),true))()
 elseif game.PlaceId ==  6872265039 then ------------------------------------------bedwars roblox mad cringe------------------------------------------
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
-elseif game.PlaceId ==  3101667897 then ------------------------------------------speed legends------------------------------------------------------
-	
+elseif game.PlaceId ==  11156779721 then ------------------------------------------stupid survival game very op--------------------------------------
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/SurvivalGame/main/Roblox9012"))()
+---------------------------------------------------------GoodSurvival1188!GameRoblox23!1---------------------------pas for the cheat above----------
 elseif game.PlaceId ==  3123123123 then ------------------------------------------speed legends------------------------------------------------------]]
 
 else
